@@ -22,9 +22,9 @@ Hey there! I'm **Minh Tam**, a passionate software developer and a freshman at *
 🚀 **What I Do**:
 - 💻 **Languages**: C#, Java, JavaScript, HTML, CSS
 - ⚙️ **Frameworks**: React, Node.js, Angular
-- 🛠️ **Tools**: Git, VSCode, SSMS, Docker, Postman
+- 🛠️ **Tools**: Git, VSCode, SSMS, Postman
 - 🗄️ **Databases**: SQL Server, MongoDB, Firebase Firestore
-- 🌱 **Currently learning**: Cloud Computing, GraphQL, and Docker
+
 
 📚 **In my free time**, I love reading tech books, listening to podcasts, exploring new frameworks, and contributing to open-source projects. I believe in continuous learning and development to keep up with the fast-changing tech landscape.
 
@@ -89,26 +89,27 @@ Here are some of my most exciting projects that I’ve worked on:
 ### 1. [**Ecommerce-MVC**](https://github.com/tamntm39/Ecommerce-MVC)
    - **Description**: An E-commerce platform for selling books. It integrates payment and user authentication systems.
    - **Technologies**: C#, SQL Server, HTML, JavaScript, ASP.NET MVC
-   - **Demo**: [View Demo](https://ecommerce-mvc-demo.herokuapp.com)
-
+  
 ### 2. [**AppMusic**](https://github.com/tamntm39/AppMusic)
    - **Description**: A music streaming app inspired by Zing Mp3 with a user-friendly interface and cloud storage integration.
    - **Technologies**: Java, Firebase, REST API
-   - **Demo**: [View Demo](https://appmusic-demo.firebaseapp.com)
+
 
 ### 3. [**TreeStore**](https://github.com/tamntm39/TreeStore)
    - **Description**: A sales management system for an online tree shop with real-time inventory and order tracking.
-   - **Technologies**: Angular, SQL Server, Node.js, Express
-   - **Demo**: [View Demo](https://treestore-demo.herokuapp.com)
+   - **Technologies**: Angular, SQL Server, .NetCore
+   - 
+### 4. [**Hospital Management System**](https://github.com/tamntm39/Hospital-Management-System)
+   - **Description**: A comprehensive hospital management system that includes features such as patient management, doctor scheduling, and real-time tracking of appointments and medical records.
+   - **Technologies**: Angular, SQL Server, Node.js
+
 
 ---
 
 ## 📫 **Let’s Connect**
 
-- **Email**: [minhtam@example.com](mailto:minhtam@example.com)
-- **LinkedIn**: [Minh Tam LinkedIn](https://linkedin.com/in/minhtam)
+- **Email**: [tamntm39@gmail.com](mailto:[tamntm39@gmail.com)
 - **GitHub**: [tamntm39](https://github.com/tamntm39)
-- **Twitter**: [@minhtamdev](https://twitter.com/minhtamdev)
 
 ---
 
@@ -116,6 +117,4 @@ Here are some of my most exciting projects that I’ve worked on:
 
 ---
 
-## 🌟 **Fun Fact**  
-I believe that programming is a superpower. 💥
 
