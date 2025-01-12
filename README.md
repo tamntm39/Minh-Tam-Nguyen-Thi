@@ -15,24 +15,26 @@
     <a href="https://www.facebook.com/profile.php?id=61556793200820"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://github.com/tamntm39"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
+# 👨‍💻 **About Me**
 
-## 👨‍💻 About Me
+Hey there! I'm **Minh Tam**, a passionate software developer and a freshman at **Ho Chi Minh City University of Foreign Languages and Information Technology**. I am enthusiastic about learning new technologies and developing innovative solutions to real-world problems. I am always striving to improve my coding skills and become a better problem-solver every day.
 
-Hi there! I'm **Minh Tam**, a passionate **software developer** and a **freshman** at **Ho Chi Minh City University of Foreign Languages and Information Technology**. I love experimenting with new technologies and improving my problem-solving skills. I'm always excited to explore and learn in the world of programming.
-
-🛠 **Specializations**:
+🚀 **What I Do**:
 - 💻 **Languages**: C#, Java, JavaScript, HTML, CSS
 - ⚙️ **Frameworks**: React, Node.js, Angular
-- 🔧 **Tools**: Git, VSCode, SSMS
-- 🗄 **Databases**: SQL Server, MongoDB, Firebase Firestore
+- 🛠️ **Tools**: Git, VSCode, SSMS, Docker, Postman
+- 🗄️ **Databases**: SQL Server, MongoDB, Firebase Firestore
+- 🌱 **Currently learning**: Cloud Computing, GraphQL, and Docker
 
-📚 In my free time, I enjoy reading books, listening to music, and diving into new knowledge. 🌱 I'm also passionate about contributing to open-source projects and collaborating with other developers.
+📚 **In my free time**, I love reading tech books, listening to podcasts, exploring new frameworks, and contributing to open-source projects. I believe in continuous learning and development to keep up with the fast-changing tech landscape.
 
-💬 Feel free to explore my projects and connect with me via the links below. Let's collaborate and build something amazing together!
+💬 Feel free to check out my projects and connect with me through the links below. Let’s collaborate and create amazing things together!
 
 ---
 
-## ⚙️ Core Technologies
+## 🛠️ **Core Technologies & Tools**
+
+I work with a variety of tools and technologies to create powerful and scalable solutions:
 
 <div align="center">
     <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" target="_blank">
@@ -50,11 +52,19 @@ Hi there! I'm **Minh Tam**, a passionate **software developer** and a **freshman
     <a href="https://angular.io/" target="_blank">
         <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     </a>
+    <a href="https://reactjs.org/" target="_blank">
+        <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    </a>
 </div>
 
 ---
 
-## 🎖️ GitHub Stats
+## 🚀 **GitHub Stats & Achievements**
+
+Here’s a glimpse of my GitHub activity and contributions:
 
 <div align="center">
     <a href="https://github.com/tamntm39">
@@ -72,31 +82,40 @@ Hi there! I'm **Minh Tam**, a passionate **software developer** and a **freshman
 
 ---
 
-## 📂 Featured Projects
+## 📂 **Featured Projects**
 
-I have worked on some exciting projects that showcase my skills:
+Here are some of my most exciting projects that I’ve worked on:
 
-### 1. [Ecommerce-MVC](https://github.com/tamntm39/Ecommerce-MVC)
-   - **Description**: An e-commerce website for selling books.
-   - **Technologies**: C#, HTML, JavaScript, SQL Server, and more.
+### 1. [**Ecommerce-MVC**](https://github.com/tamntm39/Ecommerce-MVC)
+   - **Description**: An E-commerce platform for selling books. It integrates payment and user authentication systems.
+   - **Technologies**: C#, SQL Server, HTML, JavaScript, ASP.NET MVC
+   - **Demo**: [View Demo](https://ecommerce-mvc-demo.herokuapp.com)
 
-### 2. [AppMusic](https://github.com/tamntm39/AppMusic)
-   - **Description**: A music app inspired by Zing Mp3.
-   - **Technologies**: Java, Firebase, and more.
+### 2. [**AppMusic**](https://github.com/tamntm39/AppMusic)
+   - **Description**: A music streaming app inspired by Zing Mp3 with a user-friendly interface and cloud storage integration.
+   - **Technologies**: Java, Firebase, REST API
+   - **Demo**: [View Demo](https://appmusic-demo.firebaseapp.com)
 
-### 3. [TreeStore](https://github.com/tamntm39/TreeStore)
-   - **Description**: A sales management system for a tree-selling e-commerce site.
-   - **Technologies**: Angular, SQL Server, Node.js.
-
----
-
-## 📫 Contact Me
-
-- Email: [minhtam@example.com](mailto:minhtam@example.com)
-- LinkedIn: [Minh Tam LinkedIn](https://linkedin.com/in/minhtam)
-- GitHub: [tamntm39](https://github.com/tamntm39)
+### 3. [**TreeStore**](https://github.com/tamntm39/TreeStore)
+   - **Description**: A sales management system for an online tree shop with real-time inventory and order tracking.
+   - **Technologies**: Angular, SQL Server, Node.js, Express
+   - **Demo**: [View Demo](https://treestore-demo.herokuapp.com)
 
 ---
 
-**Let's connect and build something great together!**
+## 📫 **Let’s Connect**
+
+- **Email**: [minhtam@example.com](mailto:minhtam@example.com)
+- **LinkedIn**: [Minh Tam LinkedIn](https://linkedin.com/in/minhtam)
+- **GitHub**: [tamntm39](https://github.com/tamntm39)
+- **Twitter**: [@minhtamdev](https://twitter.com/minhtamdev)
+
+---
+
+**Feel free to reach out, collaborate on exciting projects, or just have a tech conversation! Let’s build something awesome together.**
+
+---
+
+## 🌟 **Fun Fact**  
+I believe that programming is a superpower. 💥
 
