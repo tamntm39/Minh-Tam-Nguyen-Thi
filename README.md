@@ -21,7 +21,7 @@ Hey there! I'm **Minh Tam**, a passionate software developer and a freshman at *
 
 🚀 **What I Do**:
 - 💻 **Languages**: C#, Java, JavaScript, HTML, CSS
-- ⚙️ **Frameworks**: React, Node.js, Angular
+- ⚙️ **Frameworks**: React, Node.js, Angular, .NET Core
 - 🛠️ **Tools**: Git, VSCode, SSMS, Postman
 - 🗄️ **Databases**: SQL Server, MongoDB, Firebase Firestore
 
@@ -55,9 +55,7 @@ I work with a variety of tools and technologies to create powerful and scalable 
     <a href="https://reactjs.org/" target="_blank">
         <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    </a>
+ 
 </div>
 
 ---
@@ -115,6 +113,6 @@ Here are some of my most exciting projects that I’ve worked on:
 
 **Feel free to reach out, collaborate on exciting projects, or just have a tech conversation! Let’s build something awesome together.**
 
----
+
 
 
